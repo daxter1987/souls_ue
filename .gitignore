@@ -1,0 +1,41 @@
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Build products
+Binaries/
+Build/
+
+# Intermediate generated files
+Intermediate/
+
+# Derived data cache
+DerivedDataCache/
+
+# Saved files
+Saved/
+
+# Rider
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# User-specific files
+*.user
+*.userprefs
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Crash dumps
+*.dmp
+
+# Live Coding
+*.patch
