@@ -15,5 +15,5 @@ Added camera lag (souls style)
 
 Working on locking view on another character
 
-At 38:28
+At 1:20:57
 
