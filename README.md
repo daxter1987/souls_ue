@@ -15,6 +15,6 @@ Added camera lag (souls style)
 
 Working on locking view on another character
 
-At 2:12:20 - Added Boss AI with extra attack
+At 2:19:42 - Added Boss AI with extra attack
 
 
