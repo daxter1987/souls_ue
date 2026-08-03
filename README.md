@@ -15,6 +15,6 @@ Added camera lag (souls style)
 
 Working on locking view on another character
 
-At 1:58:27 - Starting Sword Attack for AI
+At 2:12:20 - Added Boss AI with extra attack
 
 
